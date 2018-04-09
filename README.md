@@ -12,7 +12,7 @@ Talk at OKC FP, April 2018
   * People
   * Thinking and Work
   
-* Erlang Adoption over time
+* Erlang Adoption over time : Success Stories
   * RabbitMQ: Messaging systems, AMQP 
   * The tale of Watsapp
   * Who uses Erlang?
