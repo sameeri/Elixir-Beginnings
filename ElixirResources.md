@@ -1,8 +1,29 @@
 ## Resources
 
+### Source
+
+https://github.com/elixir-lang/elixir
+
 ### Docs
 
 * [Elixir Documentation](https://elixir-lang.org/docs.html)
+
+### Ecosystem
+
+|Interested in|Tool|
+|-------------|----|
+|Tests|[ExUnit](https://hexdocs.pm/ex_unit/ExUnit.html)|
+|Documentation|[ExDoc](https://github.com/elixir-lang/ex_doc)|
+|Build tool, Dependency Management|[Mix](https://hexdocs.pm/mix/Mix.html)|
+|Dependencies|[hex.pm](https://hex.pm/)|
+|Web Framework|[Phoenix](http://phoenixframework.org/)|
+|Http Client|[Httpoison](https://hex.pm/packages/httpoison)|
+|JSON library|[poison](https://hex.pm/packages/poison)|
+|Database Interactions|[Ecto](https://github.com/elixir-ecto/ecto)|
+|GraphQL|[Absinthe](http://absinthe-graphql.org/)|
+|Embedded Systems|[Nerves](https://nerves-project.org/)|
+|Releases|[Distillery](https://hex.pm/packages/distillery)|
+
 
 ### Elixir Forum
 
