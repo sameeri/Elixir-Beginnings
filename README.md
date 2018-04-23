@@ -5,18 +5,10 @@
 
 ## Talk Outline
 
-### History
+### [History](https://github.com/sameeri/Elixir-Beginnings/blob/master/History.md)
 
-<History.md>
+### [Elixir](https://github.com/sameeri/Elixir-Beginnings/blob/master/Elixir.md)
 
-### Elixir
+### [Elixir Resources](https://github.com/sameeri/Elixir-Beginnings/blob/master/ElixirResources.md)
 
-<Elixir.md>
-
-### Elixir Resources
-
-<ElixirEcosystem.md>
-
-### Erlang Resources
-
-<ErlangResources.md>
+### [Erlang Resources](https://github.com/sameeri/Elixir-Beginnings/blob/master/ErlangResources.md)
