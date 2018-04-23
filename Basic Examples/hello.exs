@@ -31,46 +31,46 @@ defmodule Greet do
   def beam do
     IO.puts """
 
-https://www.youtube.com/watch?v=cLno3Wf720c
+            https://www.youtube.com/watch?v=cLno3Wf720c
 
-I have the BEAM
-And OTP
-To help me code
-Reliably
+            I have the BEAM
+            And OTP
+            To help me code
+            Reliably
 
-If you use Elixir
-You can make it scale
-Services keep running
-Even if they fail
+            If you use Elixir
+            You can make it scale
+            Services keep running
+            Even if they fail
 
-I believe in Erlang
-Where I get to use concurrency
-I believe in Erlang
-Built by Mike and Joe and Robert V
-I live the dream
-I have the BEAM
+            I believe in Erlang
+            Where I get to use concurrency
+            I believe in Erlang
+            Built by Mike and Joe and Robert V
+            I live the dream
+            I have the BEAM
 
-I have the BEAM
-And LFE
-So I can use
-Parenthesis
+            I have the BEAM
+            And LFE
+            So I can use
+            Parenthesis
 
-All the computations
-Are in soft real-time
-In this ecosystem
-Spikes are handled fine
+            All the computations
+            Are in soft real-time
+            In this ecosystem
+            Spikes are handled fine
 
-I believe in Erlang
-Where I get to use concurrency
-I believe in Erlang
-Built by Mike and Joe and Robert V
-I live the dream
-I have the BEAM
+            I believe in Erlang
+            Where I get to use concurrency
+            I believe in Erlang
+            Built by Mike and Joe and Robert V
+            I live the dream
+            I have the BEAM
 
-I'll reign supreme
-I have the BEAM
+            I'll reign supreme
+            I have the BEAM
 
-    """
+            """
   end
 
   defp sameeri do
@@ -89,4 +89,4 @@ Greet.enthusiastic "Zach"
 
 Greet.beam
 
-Greet.sameeri # Error
+#Greet.sameeri # Error
