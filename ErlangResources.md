@@ -4,39 +4,39 @@
 
 * [Erlang Documentation](http://erlang.org/doc/index.html)
 
-#### Who is Erlang
+#### Agner Erlang
 
-* <https://en.wikipedia.org/wiki/Agner_Krarup_Erlang>
+* https://en.wikipedia.org/wiki/Agner_Krarup_Erlang
 
 #### Erlang - The Movie
 
-<https://www.youtube.com/watchv=uKfKtXYLG78>
+https://www.youtube.com/watchv=uKfKtXYLG78
 
 #### An Evening at Erlang Factory
 
-<https://www.youtube.com/watch?v=rYkI0_ixRDc>
+https://www.youtube.com/watch?v=rYkI0_ixRDc
 
 #### The Language creators
 
 ##### Joe Armstrong
 
-* <https://en.wikipedia.org/wiki/Joe_Armstrong_(programmer)>
-* <https://joearms.github.io/>
+* https://en.wikipedia.org/wiki/Joe_Armstrong_(programmer)
+* https://joearms.github.io/
 
 ##### Robert Virding
 
-* <https://github.com/rvirding>
-* <http://rvirding.blogspot.com/>
+* https://github.com/rvirding
+* http://rvirding.blogspot.com/
 
 ##### Mike Williams
 
-<http://www.erlang-factory.com/conference/SFBay2012/speakers/MikeWilliams>
+http://www.erlang-factory.com/conference/SFBay2012/speakers/MikeWilliams
 
 ##### Bjarne Dacker
 
-<http://www.erlang-factory.com/conference/SFBay2010/speakers/BjarneDacker>
+http://www.erlang-factory.com/conference/SFBay2010/speakers/BjarneDacker
 
-<https://vimeo.com/14940249>
+https://vimeo.com/14940249
 
 ##### The CS Lab
 
@@ -54,8 +54,8 @@
 * [Learn you Some Erlang for Great Good](http://learnyousomeerlang.com/)
 * [The BEAM Book](https://happi.github.io/theBeamBook/)
 
-<https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=Erlang>
+https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=Erlang
 
 #### Courses
 
-<https://www.futurelearn.com/courses/functional-programming-erlang>
+* [Functional Programming in Erlang - FutureLearn](https://www.futurelearn.com/courses/functional-programming-erlang)
